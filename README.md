@@ -1,5 +1,5 @@
 ![Banner](assets/banner.png)
 
-<center>
+<div align="center">
   <img src="https://img.shields.io/github/stars/veryuseful/github-actions">
-</center>
+</div>
